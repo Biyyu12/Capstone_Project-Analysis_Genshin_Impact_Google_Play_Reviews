@@ -11,7 +11,7 @@ Metodologi yang digunakan mencakup:
 
 # 📂 Raw Dataset
 Dataset ulasan pengguna Genshin Impact diambil dari Kaggle dan dapat diakses di tautan berikut:
-🔗 [Genshin Impact Google Play Reviews] (https://www.kaggle.com/datasets/supriyoain/genshin-impact-google-play-reviews)
+🔗 [Genshin Impact Google Play Reviews](https://www.kaggle.com/datasets/supriyoain/genshin-impact-google-play-reviews)
 
 # 🔍 Insights & Findings
 ## 🎯 Sentimen
